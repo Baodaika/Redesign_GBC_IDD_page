@@ -2,6 +2,7 @@
 Description of the project concept in your own words.
 
 ## Inspiration
+- University of Toronto website: https://www.utoronto.ca/ 
 - [IDD Course Site] (https://www.georgebrown.ca/programs/interaction-design-and-development-program-g103/) 
 - [Blackboard] (https://bb-gbc.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_169315_1&content_id=_4472467_1)
 
